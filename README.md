@@ -1,0 +1,2 @@
+# MaxSumOfSinglePathInPyramid
+An Algorithm Challenge
