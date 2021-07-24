@@ -9,7 +9,7 @@ We will have an orthogonal triangle input and need to find the maximum sum of th
 3. Have to reach at the end of the pyramid as much as possible.
 4. Have to treat the input as pyramid.
 
-According to above rules the maximum sum of the numbers from top to bottom in below example is 24.
+According to above rules the maximum sum of the numbers from top to bottom in below example is 19.
 
 <pre>
 	1*
